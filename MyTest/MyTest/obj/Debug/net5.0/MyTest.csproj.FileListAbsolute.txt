@@ -1,0 +1,16 @@
+E:\C#Basic\MyTest\MyTest\bin\Debug\net5.0\MyTest.exe
+E:\C#Basic\MyTest\MyTest\bin\Debug\net5.0\MyTest.deps.json
+E:\C#Basic\MyTest\MyTest\bin\Debug\net5.0\MyTest.runtimeconfig.json
+E:\C#Basic\MyTest\MyTest\bin\Debug\net5.0\MyTest.runtimeconfig.dev.json
+E:\C#Basic\MyTest\MyTest\bin\Debug\net5.0\MyTest.dll
+E:\C#Basic\MyTest\MyTest\bin\Debug\net5.0\ref\MyTest.dll
+E:\C#Basic\MyTest\MyTest\bin\Debug\net5.0\MyTest.pdb
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\MyTest.csproj.AssemblyReference.cache
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\MyTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\MyTest.AssemblyInfoInputs.cache
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\MyTest.AssemblyInfo.cs
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\MyTest.csproj.CoreCompileInputs.cache
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\MyTest.dll
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\ref\MyTest.dll
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\MyTest.pdb
+E:\C#Basic\MyTest\MyTest\obj\Debug\net5.0\MyTest.genruntimeconfig.cache
